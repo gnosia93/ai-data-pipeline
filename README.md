@@ -1,4 +1,4 @@
-# ai-pipeline-ec2
+# ai-data-pipeline
 
 AI Data Pipelines on EC2 — Airflow 기반 데이터·클래식 ML 파이프라인을 Graviton/EC2에서 비용 효율적으로
 
